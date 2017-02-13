@@ -1,4 +1,4 @@
-Documentation: AERAS
+AERAS
 
 AERAS is a lightweight framework developed for personal use. It provides a set of easily customizable tools for web development.
 
