@@ -5,8 +5,11 @@ AERAS is a lightweight framework developed for personal use. It provides a set o
 Features:
 	12 column grid with offset
 	Clickable Button with JS
-	
+
 Working on:
 	Fixed Sidebar
+
+Upcoming:
 	Header
 	Footer
+	Mobile Responsiveness

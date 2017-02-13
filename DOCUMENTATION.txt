@@ -1,0 +1,36 @@
+DOCUMENTATION
+AERAS CSS Framework
+
+Table of Content:
+- Overview
+- Grid
+- Clickable
+  Button
+  Link
+- Sidebar
+
+///NAVIGATION///
+The "find" feature is your friend.
+
+***OVERVIEW***
+Aeras is meant to be light and highly editable, which means it will only provide common funcionalities.
+Code sections in template files will be commented to allow easy copy/pasting to control file size.
+
+***GRID***
+Aeras provides a responsive 12 column grid system. Gridding is added via classes "col-x" where x is the number of column occupied.
+As floated inline-blocks, columns which add up to 12 will occupy the same line.
+
+Columns can be offset by appending "-offest-x" to the class name, where x is the number of columns offset from the left.
+
+***CLICKABLE***
+The clickable class provides buttons and links for a fixed sidebar. They change color on hover and click, which can be changed via JQuery.
+The CSS for clickable provides for commonalities between all clickables, so it should be included along with more specified code.
+
+*Button*
+The button comes as a simple flat, square button with unfixed width and fixed height.
+
+*Link*
+The link is a clickable used under the sidebar, with 100% width to fill the width of the sidebar.
+
+***SIDEBAR***
+The sidebar is a fixed left side sidebar, with 15% width. Provided JQuery will adjust all elements to avoid overlap if it is used.
