@@ -25,6 +25,7 @@ Columns can be offset by appending "-offest-x" to the class name, where x is the
 ***CLICKABLE***
 The clickable class provides buttons and links for a fixed sidebar. They change color on hover and click, which can be changed via JQuery.
 The CSS for clickable provides for commonalities between all clickables, so it should be included along with more specified code.
+Place clickable text content inside <span> tags to assure centered vertical alignment. Nest the entirety inside the clickable div class.
 
 *Button*
 The button comes as a simple flat, square button with unfixed width and fixed height.
